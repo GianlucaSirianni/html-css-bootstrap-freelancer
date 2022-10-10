@@ -37,3 +37,45 @@
 .imgSize2{
     width: 100%;
 }
+
+.btn-primary {
+    --bs-btn-border-color: white;
+
+}
+
+input[type=name] {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0px;
+  }
+
+  input[type=email] {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0px;
+  }
+
+  input[type=phone] {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0px;
+  }
+
+  input[type=message] {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0px;
+    padding-bottom: 5rem;
+  }
+
+  .fa-brands{
+    font-size: 1rem;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+    padding: 1rem;
+  }
+
+  .greenText{
+    color: rgba(26,188,156,255);
+  }
