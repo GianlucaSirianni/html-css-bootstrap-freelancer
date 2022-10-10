@@ -1,0 +1,35 @@
+.bg-blue-dark{
+  background-color: rgba(44,62,80,255);  
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+#imgSize{
+    width: 15%;
+}
+
+.bg-green{
+    background-color: rgba(26,188,156,255);
+}
+
+.fa-star{
+    padding: 0.5rem;
+}
+
+.shortWhiteLine{
+    width: 4rem;
+    border: 1px solid;
+    background-color: white;
+}
+
+.fa-star2{
+    color: black;
+}
+
+.shortWhiteLine2{
+    width: 4rem;
+    border: 1px solid;
+    background-color: black;
+}
